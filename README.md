@@ -3,15 +3,21 @@
 - Nome: Rafael Shinji Tomokame
 - LinkedIn:
 - GitHub:
+
 ---
+
 ## Estrutura
 - P1
 - P2
 - Requisitos-ABP
 - Reflexoes
+
 ---
+
 ## Projeto ABP
-- Descrição do problema escolhido.
+Descrição do problema escolhido.
+
 ---
+
 ## Aprendizados
-- Registro reflexivo sobre evolução no semestre.
+Registro reflexivo sobre evolução no semestre.
