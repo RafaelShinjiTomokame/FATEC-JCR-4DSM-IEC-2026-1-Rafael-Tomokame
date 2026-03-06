@@ -2,7 +2,7 @@
 ## Aluno
 - Nome: Rafael Shinji Tomokame
 - LinkedIn:
-- GitHub:
+- GitHub: https://github.com/RafaelShinjiTomokame
 
 ---
 
