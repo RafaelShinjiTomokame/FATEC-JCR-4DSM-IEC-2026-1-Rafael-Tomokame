@@ -19,3 +19,5 @@ jobs:
       # 1. Baixar o código do repositório
       - name: Checkout do repositório
         uses: actions/checkout@v4
+      - name: Teste de funcionamento
+        run: echo "Pipeline do projeto INPE executado com sucesso!"
